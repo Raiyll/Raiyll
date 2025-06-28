@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello my felow coders! 👋
 
 <!--
 **Raiyll/Raiyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently school at the **SMKN 4 TANGERANG**, studying computer science.
+- 🌱 I’m currently learning **Laravel** Framework, **React Js**, and **PHP**.
+- 👯 I’m looking to collaborate on **Open Source Project**.
+![happy birthday](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZscnRhNnU2bzd2c3gxazB1bmxoanp4YXZwaTF6Y2NoeHRzNmo3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/boYxZ1fa72kcgr70sN/giphy.gif)
