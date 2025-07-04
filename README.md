@@ -1,6 +1,6 @@
 
 
-![Raiyll](img/github-header-1.png)
+![Raiyll](img/github-header-2.png)
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyll&label=Profile%20views&color=0e75b6&style=flat" alt="raiyll" /> </p>
@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **ahmadrafifadilah50@gmail.com**
 
-- ⚡ Fun fact **I like to sleep with my cats**
+- ⚡ Fun fact **I like to sleep with my cats**  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
