@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raiyll" alt="raiyll" /></a> </p>
 
-- 🔭 I’m currently working on **Ngemil.in**
+- 🔭 I’m currently intern in **PT. Tri Nindya Utama**
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://luciannz.netlify.app/](https://luciannz.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bettercallkael.my.id/](https://bettercallkael.my.id/)
 
 - 📫 How to reach me **ahmadrafifadilah50@gmail.com**
 
